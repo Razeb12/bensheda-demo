@@ -19138,6 +19138,7 @@ ul.sosiyal.sosiyal-inverse li:hover {
     box-shadow: -3px 0 7px 1px rgba(158, 158, 158, 0.2);
     background-color: #ffffff;
     padding: 10px 14px;
+    display:none;
 }
 
 .color-picker .colors {
